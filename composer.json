@@ -1,0 +1,9 @@
+{
+	"name": "pablo/mvc_framework",
+	"autoload": {
+		"psr-4": {
+			"app\\": "./"
+		}
+	},
+	"require": {}
+}
